@@ -1,3 +1,5 @@
-- 1aa8026 Create brief.md
-- 867776c fix: correct V3 research and resources
-- 7cdbab6 revies: overview
+1aa8026 Create brief.md
+867776c fix: correct V3 research and resources
+7cdbab6 revies: overview
+0de15ad changelog: record history
+54672ed fix: correct punctuation and formatting
