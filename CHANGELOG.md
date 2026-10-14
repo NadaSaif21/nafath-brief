@@ -1,0 +1,3 @@
+- 1aa8026 Create brief.md
+- 867776c fix: correct V3 research and resources
+- 7cdbab6 revies: overview
